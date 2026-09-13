@@ -47,6 +47,15 @@ chmod +x build.sh install.sh
 Developer
 
 -=ImrusMágus=-  
+
+<img width="352" height="486" alt="Képernyőfotó 2026-09-13 - 18 28 14" src="https://github.com/user-attachments/assets/b1794857-1489-4e1f-b95d-865a5863a064" />
+
+<img width="345" height="478" alt="Képernyőfotó 2026-09-13 - 18 28 32" src="https://github.com/user-attachments/assets/11d775d9-8884-4172-ba31-7205427aa721" />
+
+<img width="300" height="400" alt="IMG_7066" src="https://github.com/user-attachments/assets/a6d38788-c8b4-42e1-adc0-0a45e889969e" />
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ❄️ LidFrost
 
