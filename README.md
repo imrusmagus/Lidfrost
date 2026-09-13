@@ -54,6 +54,9 @@ Developer
 
 <img width="300" height="400" alt="IMG_7066" src="https://github.com/user-attachments/assets/a6d38788-c8b4-42e1-adc0-0a45e889969e" />
 
+<img width="350" height="350" alt="bmc_qr" src="https://github.com/user-attachments/assets/156a86ad-7eb0-412e-895a-823d05552c07" />
+
+https://buymeacoffee.com/nanasiimreu
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
